@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guelph Transit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="title_activity_second">second</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
